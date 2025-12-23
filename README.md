@@ -1,1 +1,0 @@
-# sparkwithairflowindocker
